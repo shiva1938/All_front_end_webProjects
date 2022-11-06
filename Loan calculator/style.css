@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+#loancl {
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    border-radius: 4px;
+    padding: 12px;
+    margin: auto;
+    color: white;
+}
+
+input {
+    width: 200px;
+}
